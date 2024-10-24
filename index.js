@@ -1,1 +1,2 @@
 alert ("Disclaimer: The use of telsa's real names, cars, and full copyright of the website is just for educational purposes alone. This website was not created whatsoever in pursuance of any scam activity or for fraud purposes. I refuse to be held responsible or liable to any scam or whatsoever carried out using this parody website. Please do not fall for anything you see displayed on the website as it is not the real website of Tesla. I will not be held liable whatsoever for any scam or fraud activity performed using this website.");
+
